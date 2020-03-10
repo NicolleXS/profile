@@ -68,13 +68,14 @@ li {
 
 .btn-yellow {
   background-color: #E0CA3C;
-  color: white;
+  color: #808080;
   padding: 15px 20px;
-  border-radius: 4px;
+  border-radius: 30px;
 }
 
 a:hover {
-  background-color:#BFBDC1;
+  background-color:#808080;
+  color: #E0CA3C;
 }
 
 @media (max-width: 960px) {
